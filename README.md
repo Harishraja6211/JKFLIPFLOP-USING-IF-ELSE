@@ -1,6 +1,4 @@
-![325854959-374abd87-38dd-45b7-8004-a62f2140cf76](https://github.com/Harishraja6211/JKFLIPFLOP-USING-IF-ELSE/assets/154001429/bf2b9c51-a8c7-44fa-b562-0d36da7dab4f)# JKFLIPFLOP-USING-IF-ELSE
 
-**AIM:** 
 
 To implement  JK flipflop using verilog and validating their functionality using their functional tables
 
